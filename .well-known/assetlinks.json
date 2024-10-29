@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.healthxp.store",
+      "sha256_cert_fingerprints": [
+        "1B:74:E9:6D:8B:A5:6A:DC:8D:43:AE:27:39:90:F7:7E:1C:12:FF:BD:15:E0:4A:3B:C8:E8:F0:95:18:9A:0E:44"
+      ]
+    }
+  }
+]
